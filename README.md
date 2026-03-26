@@ -7,6 +7,9 @@ PuzzleMind is a web-based AI game platform that includes two interactive games:
 The project demonstrates the use of Artificial Intelligence algorithms in simple web-based games.
 
 ## Live Demo
+https://drive.google.com/file/d/1GYgiKK_cHgGGqosTRcfCVhvjQLuR8i7g/view?usp=sharing
+
+## Game Link 
 https://amishamishra0006.github.io/PuzzleMind/
 
 ## GitHub Repository
